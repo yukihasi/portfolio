@@ -12,4 +12,4 @@
 ## webapp
 簡易的に音楽を作成するwebアプリ
 
-使い方：mapeditフォルダのREADMEおよび動画参照
+使い方：webappフォルダのREADMEおよび動画参照
